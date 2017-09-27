@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+.wrapper {
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
+    
+}
+
+.h2 {
+    font-family: "HelveticaNeue-Bold", sans-serif;
+}
+
+.p {
+    width: 250px;
+    font-size: 12px;
+    font-family: "HelveticaNeue-Regular", sans-serif;
+    color: #cccccc;
+    margin-top: 15px;
+    line-height: 20px;
+    
+}
+
+.image, .first, .image1, .second {
+    display: inline-block;
+}
+
+.green-block {
+    width: 100%;
+    height: 180px;
+    background: #34a56d;
+}
+
+div {
+    margin: 10px;
+}
+
+.h1 {
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-top: 70px;
+    padding-left: 200px;
+}
