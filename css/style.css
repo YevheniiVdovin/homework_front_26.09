@@ -42,5 +42,5 @@ div {
     font-size: 30px;
     text-transform: uppercase;
     padding-top: 70px;
-    padding-left: 200px;
+    padding-left: calc((100% / 2 - 300px) + 25px);
 }
